@@ -9,7 +9,6 @@ public class WorldPopulation {
 
 	SortStrategy sortStrategy;
 	long[] population = new long[13484]; // Cheating because we know number of records!!
-	//Test connecting Eclipse and GitHub	
 	// Lab Exercise:  After creating some strategy classes -- set the default strategy here.
 	public WorldPopulation(){
 		sortStrategy = new #; // Set the default strategy here.	
