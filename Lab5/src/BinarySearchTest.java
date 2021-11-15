@@ -1,8 +1,5 @@
-package edu.depaul.se433;
 
-import static edu.depaul.se433.BinarySearch.*; 
 import static org.junit.Assert.*;
-
 import org.junit.*;
 
 

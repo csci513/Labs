@@ -1,4 +1,3 @@
-package edu.depaul.se433;
 
 /*
  * Implementing simple binary search on an array.  
